@@ -21,7 +21,7 @@
      
 # Projeto Final Ada Avanade
 
-## O projeto se resume a um jogo RPG (Role Playing Game). Como todo bom RPG, será duelado em turnos. Ao iniciar uma batalha você pode escolher o seu personagem favorito (herói ou monstro) e o seu nome.
+O projeto se resume a um jogo RPG (Role Playing Game). Como todo bom RPG, será duelado em turnos. Ao iniciar uma batalha você pode escolher o seu personagem favorito (herói ou monstro) e o seu nome.
 
 ## Algumas regras:
 - Ao iniciar, será necessário escolher um personagem (herói ou monstro);
